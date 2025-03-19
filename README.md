@@ -82,7 +82,7 @@ Nesta segunda etapa do projeto, iremos realizar a hospedagem da aplicação de M
 
 ### Resultado da Análise de Custos
 
-
+[Estimativa de Custos com AWS](https://github.com/anakolodji/Farmtech_Analise_Rendimento_Agricola/blob/main/My%20Estimate1%20-%20Calculadora%20de%20Pre%C3%A7os%20da%20AWS.pdf)
 
 ### Justificativa da Escolha
 
