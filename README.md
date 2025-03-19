@@ -52,7 +52,7 @@ Para acessar o notebook com a análise completa e os códigos detalhados, clique
 
 ## Equipe
 
-- Ana Kolodji
+- Ana Kolodji 
 - Fernando Segregio
 - Mateus Conciani
 
@@ -84,6 +84,24 @@ Nesta segunda etapa do projeto, iremos realizar a hospedagem da aplicação de M
 
 [Estimativa de Custos com AWS](https://github.com/anakolodji/Farmtech_Analise_Rendimento_Agricola/blob/main/My%20Estimate1%20-%20Calculadora%20de%20Pre%C3%A7os%20da%20AWS.pdf)
 
+| Região                  | Tipo de Instância | vCPUs | RAM  | Custo Mensal (USD) | Custo Anual (USD) |
+|-------------------------|-------------------|-------|------|--------------------|-------------------|
+| Virgínia do Norte (EUA) | t3.micro          | 2     | 1GiB | $3,80              | $45,60            |
+| São Paulo (BR)          | t3.micro          | 2     | 1GiB | $6,13              | $73,56            |
+
+Custo Total Anual (Região mais barata – EUA):
+
+Aproximadamente $22,80 (12 meses x $1,90)
+
 ### Justificativa da Escolha
 
+Embora o custo mensal seja mais barato na Virgínia do Norte (EUA), a melhor escolha é hospedar a solução na região de São Paulo (BR) por dois fatores essenciais:
+
+Acesso rápido aos dados dos sensores:
+Hospedar localmente garante latência reduzida e melhor desempenho em tempo real para coleta e processamento das informações dos sensores.
+
+Restrições legais:
+Em cenários com restrições legais que impedem o armazenamento de dados no exterior, hospedar no Brasil é obrigatório para conformidade regulatória.
+
+Desta forma, a opção recomendada pelo seu grupo para esta entrega seria a instância t3.micro localizada na região São Paulo (BR), apesar do pequeno aumento nos custos, garantindo desempenho adequado e conformidade com exigências legais locais.
 
