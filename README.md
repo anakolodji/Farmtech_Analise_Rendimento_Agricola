@@ -41,7 +41,9 @@ O projeto envolveu as seguintes etapas principais:
 
 ## Como acessar os resultados
 
-Para acessar o notebook com a análise completa e os códigos detalhados, clique no link abaixo:
+Para acessar o notebook com a análise completa e os códigos detalhados, faça download da base de dados, clique no link abaixo e importe a base de dados:
+
+[Base_de_Dados](https://drive.google.com/file/d/1S2ey96guxWYDorvZuHdHhO2lajHGqFVN/view?usp=drive_link)
 
 [FarmTech_Analise_Rendimento_Agricola.ipynb](https://drive.google.com/file/d/1lOkDvWQjkGF1Er8G8vVfxy1QKdOorreU/view?usp=sharing)
 
@@ -104,4 +106,12 @@ Restrições legais:
 Em cenários com restrições legais que impedem o armazenamento de dados no exterior, hospedar no Brasil é obrigatório para conformidade regulatória.
 
 Desta forma, a opção recomendada pelo seu grupo para esta entrega seria a instância t3.micro localizada na região São Paulo (BR), apesar do pequeno aumento nos custos, garantindo desempenho adequado e conformidade com exigências legais locais.
+
+### Vídeos do Projeto
+
+#### Vídeo Demonstrativo
+[Vídeo Demonstrativo do Projeto](https://youtu.be/Lu0td-v3poM)
+
+#### Vídeo AWS
+[Vídeo AWS](https://youtu.be/DIIE7vRdDdA)
 
