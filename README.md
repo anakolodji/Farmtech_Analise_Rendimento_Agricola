@@ -52,9 +52,9 @@ Para acessar o notebook com a análise completa e os códigos detalhados, clique
 
 ## Equipe
 
-- Ana Kolodji 
-- Fernando Segregio
-- Mateus Conciani
+- Ana Kolodji RM559629
+- Fernando Segregio RM559582
+- Mateus Conciani RM559473
 
 ## Instituição
 
