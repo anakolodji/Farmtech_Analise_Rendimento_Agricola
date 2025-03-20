@@ -45,7 +45,7 @@ Para acessar o notebook com a análise completa e os códigos detalhados, faça 
 
 [Base_de_Dados](https://drive.google.com/file/d/1S2ey96guxWYDorvZuHdHhO2lajHGqFVN/view?usp=drive_link)
 
-[FarmTech_Analise_Rendimento_Agricola.ipynb](https://drive.google.com/file/d/1lOkDvWQjkGF1Er8G8vVfxy1QKdOorreU/view?usp=sharing)
+[AnaKolodji_rm559629_pbl_fase4.ipynb](https://colab.research.google.com/drive/1_GH14nyOJ-C-thYRzi9FBhF_VfdL5c6N)
 
 ## Pré-requisitos
 
